@@ -1,0 +1,6 @@
+1# Open the bytecode file.
+2# Loop through the file(read aLINE).
+    2.1# Extract the OP_CODE.
+    2.2# Extract the OP_CODE AUG.
+    2.3# Find the OP_CODE HANDLER (a function).
+    2.4# Call the OP_CODE HANDLER (a function).
